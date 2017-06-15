@@ -1,0 +1,4 @@
+﻿1. 将Apple.txt导入Map;
+2. 将Orange.xls导入Map;
+3. 通过JUnit的TestCase生成类似于ResultExample.xml格式的结果文件, 
+   文件内容按照记录中数据水果总数排序 

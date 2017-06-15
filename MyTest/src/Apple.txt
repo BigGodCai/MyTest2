@@ -1,0 +1,4 @@
+﻿CustomerCode,CustomerName,Apple数量
+C001|张三|10
+C002|李四|20
+C001|王五|30

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+	<CustomerInfo>
+		<CustomerCode>C088</CustomerCode>
+		<CustomerName AppleOnHands="10" OrangeOnHands="10">Justin Bieber</CustomerName>	
+		<TotalAmount>20</TotalAmount>
+	</CustomerInfo>
+</customer>
