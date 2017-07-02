@@ -9,6 +9,8 @@ import java.util.Set;
 
 public class TestMain {
 	public static void main(String[] args) throws Exception {
+		//jdoianodnfckldsan
+		//哦ijoifcsjoifcjsofjsdlk  
 		InputStream resource = TestMain.class.getResourceAsStream("/Apple.txt");
 		InputStreamReader isr = new InputStreamReader(resource);
 		BufferedReader br = new BufferedReader(isr);
