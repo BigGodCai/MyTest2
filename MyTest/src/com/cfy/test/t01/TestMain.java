@@ -34,6 +34,7 @@ public class TestMain {
 			}
 		}
 		//遍历map
+		int i = 2;
 		System.out.println("map:");
 		Set<String> keySet = map.keySet();
 		for (String string : keySet) {
